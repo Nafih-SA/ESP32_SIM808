@@ -2,7 +2,7 @@
 #include <string.h>
 #include <EEPROM.h>
 
-/*********** Macros & Varaibles ******************/
+/********** Macros & Varaibles ******************/
 #define EEPROM_ADDRESS 0
 #define LED_PIN 2
 String Master_SIM = "";
